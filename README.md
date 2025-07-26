@@ -1,1 +1,1 @@
-# Sustainable-smart-city-assissant
+# Sustainable-Smart-City-Assistant-Using-IBM-Granite-LLM
